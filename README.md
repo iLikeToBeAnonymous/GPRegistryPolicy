@@ -2,6 +2,8 @@
 
 These cmdlets will allow you to export and import .POL files, which contain the registry keys enacted by Group Policy. The primary intent of these cmdlets is to enable enforcing security policy settings on Nano Server, but this method will also work on Windows Server 2016.
 
+## _MOST RECENT ACTIVITY_
+As of 2022-03-10, the fork with the most recent activity (aside from my fork) can be found here: https://github.com/ImportTaste/GPRegistryPolicy
 
 These security-related settings include three different kinds of Group Policy artifacts:
 * .POL files containing registry settings. These are handled by the cmdlets listed below.
